@@ -232,7 +232,6 @@ Contributions welcome! Please:
 
 ## 👤 Author
 
-**Your Name**
 - GitHub: [@praharsha0209](https://github.com/Praharsha0209)
 - LinkedIn: [praharsha prateek](https://www.linkedin.com/in/praharsha-prateek-784186190/)
 - Email: your.email@example.com
@@ -250,7 +249,7 @@ Contributions welcome! Please:
 - **Data Volume**: 187 markets, 627 contracts
 - **Update Frequency**: Every 6 hours
 - **Technologies**: 7 (Python, Airflow, S3, Snowflake, Docker, SQL, Tableau)
-- **Completion Time**: [Your timeframe]
+- **Completion Time**: 3 Weeks
 
 ---
 
